@@ -65,7 +65,7 @@ function weatherDetails(info){
         }else if(id >= 600 && id <= 622){
             wIcon.src = "snow.png";
         }else if(id >= 701 && id <= 781){
-            wIcon.src = "icons/haze.svg";
+            wIcon.src = "haze.png";
         }else if(id >= 801 && id <= 804){
             wIcon.src = "cloudy.png";
         }else if((id >= 500 && id <= 531) || (id >= 300 && id <= 321)){
